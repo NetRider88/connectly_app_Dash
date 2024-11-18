@@ -15,7 +15,7 @@ This project is a web application built using Dash and Plotly for analyzing camp
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/NetRider88/connectly_app_streamlit.git
+    git clone https://github.com/NetRider88/connectly_app_Dash.git
     cd connectly-app
     ```
 
